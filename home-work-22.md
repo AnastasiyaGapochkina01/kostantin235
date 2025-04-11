@@ -1,4 +1,4 @@
-Дан проект "Hello World" на nodejs - https://github.com/AnastasiyaGapochkina01/hello-node/tree/main
+Дан проект "Hello World" на nodejs - https://github.com/AnastasiyaGapochkina01/hello-node/tree/main \
 Необходимо
 1) Запустить его в docker
 2) Написать gitlab ci пайплайн, который
